@@ -1,32 +1,54 @@
 <h1 align="center">Hi 👋 I'm Midnight</h1>
-<h3 align="center">Junior Front-End Developer from Thailand</h3>
+<h3 align="center">Web Developer  🇹🇭</h3>
 
----
-
-### 👨‍💻 About Me
-- 🎓 Computer Science Graduate
-- 💻 React Developer
-- 🌱 Learning Full Stack
-
----
-
-### 🚀 Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,vscode" />
+<p align="center">
+Passionate about web development and creating modern UI experiences.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME&layout=compact&theme=tokyonight)
+- 🎓 Computer Science Graduate from Naresuan University
+- 💻 Interested in Web Development
+- 🌱 Goal: Become Junior Front-End Developer
+- 📍 Thailand
 
 ---
 
-### 🌐 Portfolio
+## 🚀 Tech Stack
 
-[My Website](https://teerapongh-web.netlify.app)
-![snake gif](https://github.com/YOURNAME/YOURNAME/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=midnightzZ18&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightzZ18&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Portfolio Website
+
+🔗  https://teerapongh-web.netlify.app/
+
+---
+
+## 📫 Contact Me
+
+- Email: teeraponghmc@gmail.com
+- GitHub: https://github.com/midnightzZ18
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile ✨
+</p>
