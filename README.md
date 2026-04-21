@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./github_cover.png" width="100%">
 
---
+---
 
 ## 👨‍💻 About Me
 
@@ -21,8 +21,8 @@ I am currently seeking opportunities to apply my knowledge and skills in real-wo
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.facebook.com/night.nana.a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://www.facebook.com/night.nana.a">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/midnightt.x/" target="_blank">
@@ -38,23 +38,30 @@ I am currently seeking opportunities to apply my knowledge and skills in real-wo
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,php,html,css,python,c" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ### ⚛️ Frameworks / Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LINE%20Messaging%20API-00C300?style=for-the-badge&logo=line&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINE%20API-00C300?style=for-the-badge&logo=line&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,figma" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -82,7 +89,7 @@ I am currently seeking opportunities to apply my knowledge and skills in real-wo
 
 Email: teeraponghmc@gmail.com
 
-
-<p align="left">
+---
+<p align="center">
 Thanks for visiting my profile 🙌
 </p>
