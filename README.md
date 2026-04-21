@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Midnight</h1>
+<h3 align="center">Junior Front-End Developer from Thailand</h3>
 
-<!--
-**midnightzZ18/midnightzZ18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Science Graduate
+- 💻 React Developer
+- 🌱 Learning Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Portfolio
+
+[My Website](https://teerapongh-web.netlify.app)
