@@ -1,14 +1,8 @@
 <h1 align="left">Hello World 🌏 </h1>
 <p align="center">
   <img src="./github_cover.png" width="100%">
-</p>
-<h3 align="center">Front-End Developer from Thailand 🇹🇭</h3>
 
-<p align="center">
-Passionate about creating modern, responsive, and user-friendly web experiences.
-</p>
-
----
+--
 
 ## 👨‍💻 About Me
 
@@ -23,18 +17,44 @@ I am currently seeking opportunities to apply my knowledge and skills in real-wo
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://github.com/midnightzZ18"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.facebook.com/night.nana.a"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://www.instagram.com/midnightt.x/"><img src="https://skillicons.dev/icons?i=insagram" /></a>
-<a href="https://teerapongh-web.netlify.app/"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+<a href="https://github.com/midnightzZ18" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.facebook.com/night.nana.a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://www.instagram.com/midnightt.x/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://teerapongh-web.netlify.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=webflow" />
+</a>
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,vscode,figma" />
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,php,html,css,python,c" />
+</p>
+
+### ⚛️ Frameworks / Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LINE%20Messaging%20API-00C300?style=for-the-badge&logo=line&logoColor=white" />
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,figma" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 </p>
 
 ---
@@ -47,6 +67,20 @@ I am currently seeking opportunities to apply my knowledge and skills in real-wo
 </p>
 
 ---
+## 📌 Featured Projects
+
+| Project | Tech Stack |
+|--------|------------|
+| Weather App | React, API, CSS |
+| To-Do Listify | React, JS |
+| Online Book Store | PHP, MySQL |
+| LINE Chatbot EPL | GAS, LINE API |
+| Portfolio Website | React |
+---
+
+## 📫 Contact
+
+Email: teeraponghmc@gmail.com
 
 
 <p align="left">
