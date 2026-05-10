@@ -1,4 +1,4 @@
-<h1 align="left">Hello World 🌏 </h1>
+<h1 align="left">Hello World </> 🌏 </h1>
 <p align="center">
   <img src="./github_cover.png" width="100%">
 
